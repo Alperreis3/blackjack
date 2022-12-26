@@ -19,6 +19,7 @@ This code uses the random and art modules. The art module is used to print the g
 Here is an example of a game of Blackjack:
 
 # Copy code
+```ruby
 $ python blackjack.py
   _____
  /      \
@@ -35,6 +36,6 @@ Type 'y' to get another card, or 'n' to pass: n
 Your final hand: [10, 3, 6], final score: 19
 Computer's final hand: [10, 10, 8], final score: 28
 Opponent went over. You win
-
+```
 # Contributing
 If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
