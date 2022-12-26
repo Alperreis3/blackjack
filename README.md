@@ -17,9 +17,9 @@ This code uses the random and art modules. The art module is used to print the g
 
 # Examples
 Here is an example of a game of Blackjack:
-
-# Copy code
 ```ruby
+Copy code
+
 $ python blackjack.py
   _____
  /      \
